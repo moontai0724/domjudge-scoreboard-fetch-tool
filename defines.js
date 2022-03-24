@@ -13,5 +13,5 @@ const ICON_PASSED = "✓";
 /** @type {string} color hex that will filled when someone not passed a problem yet */
 const ICON_NOT_PASSED = "⨯";
 
-/** debug mode */
+/** @type {boolean} debug mode */
 const debug = true;
